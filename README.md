@@ -25,7 +25,7 @@ Example Output:
 1. Clone the repository to your local machine:
    
    ```bash
-   git clone [https://github.com/your-username/wifi_profiles_extractor.git](https://github.com/metodiangelov/instagram_hashtag_like_bot]
+   git clone https://github.com/metodiangelov/instagram_hashtag_like_bot
 
 
 How It Works
